@@ -1,0 +1,48 @@
+callbackfunction === only name dena hai
+setTimeOut == koi kam kre ksi diye gye time k bad ( milliseconds) 1 sec= 1000ms
+setInterval == kam hota jayega every second  //kbhi nhi rukega isko rokna prega{ clear Interval}
+functionn hai , 
+backticks ` == use as a string 
+(`${Var_name}`)
+
+
+///for loop == blocking => traffice jam
+jb tk ye chalega hr cheez ko block krega
+
+// best use == use non blocking Function
+*** setTimeOut == 2 parameters
+1st = function delcaration,
+2nd = time dena hai -.as above 
+***callback ==  non blocking, as an input pass kia jata hai ksi or funcation me
+
+
+synchronous mean == blocking
+asynchronous mean = nonblocking
+
+
+//layers
+frontend
+backend == server (information{ responsed to request})
+database
+
+ *** frontend to backend == request send krta hai
+ request = URL form (www.
+
+response == any data  or html (if backend need data,  request(coming from frontend) go to database and collect data then response it)
+
+ // weather == open weather map , accuweather ,  
+// handle == function
+machine === jquery(library) => ajax(function), xmlHTTPrequest , ***axios(machine for request) => Library hai
+
+****promise == .get , .catch , .finally , .then
+200 = success
+404 = notfound
+
+
+
+
+
+
+
+
+
